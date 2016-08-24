@@ -44,6 +44,6 @@
     </listener> -->
 
    <welcome-file-list>
- <welcome-file>/WEB-INF/views/first.jsp</welcome-file>
+ <welcome-file>/WEB-INF/views/HomePage.jsp</welcome-file>
  </welcome-file-list>
 </web-app>
